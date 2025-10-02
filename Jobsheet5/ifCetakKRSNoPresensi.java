@@ -17,7 +17,7 @@ public class ifCetakKRSNoPresensi {
             System.out.println("Pembayaran UKT terverifikasi.");
              System.out.print("Silahkan cetak KRS dan minta tanda tangan DPA");
         } else {
-            System.out.println("Pembayaran UKT tidak terverifikasi. Silakan lunasi UKT terlebih dahulu.");
+            System.out.println("Registrasi ditolak. Silakan lunasi UKT terlebih dahulu");
         }
 
         sc.close();
