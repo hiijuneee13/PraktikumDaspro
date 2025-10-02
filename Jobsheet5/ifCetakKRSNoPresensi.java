@@ -18,7 +18,6 @@ public class ifCetakKRSNoPresensi {
             
         // Output hasil
         System.out.println(pesan);
-
         sc.close();
     }
 }
