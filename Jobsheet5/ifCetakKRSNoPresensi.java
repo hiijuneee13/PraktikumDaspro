@@ -20,7 +20,6 @@ public class ifCetakKRSNoPresensi {
             System.out.println("Pembayaran UKT tidak terverifikasi. Silakan lunasi UKT terlebih dahulu.");
         }
 
-        // Tutup Scanner
         sc.close();
     }
 }
