@@ -39,6 +39,7 @@ public class switchCetakKRSNoPresensi {
                 System.out.println("Semester tidak valid!");
                 break;
         }
+
         
         sc.close();
     }
