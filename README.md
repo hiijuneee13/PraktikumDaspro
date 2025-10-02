@@ -9,3 +9,4 @@ ini dari visual code
 
 dari github
 ini dari visual code
+haha kepo
